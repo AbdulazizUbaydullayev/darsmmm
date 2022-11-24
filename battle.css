@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.iphone13{
+    width: 23%;
+    height: 650px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 70px;
+    background-color: gray;
+    padding: 30px 30px;
+}
+.qq{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(93, 89, 89);
+    border-radius: 30px;
+    padding-top: 15px;
+}
+.ww{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.692);
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-top: -11px;
+}
+.ee{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.692);
+    margin-bottom: 20px;
+    margin-left: 80px;
+    margin-top: -105px;
+}
+
+.rr{
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    margin-left: 96px;
+    border-radius: 50%;
+}
+.tt{
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 50%;
+    margin-left: 95px;
+}
+.yy{
+    width: 10px;
+    height: 10px;
+    background-color: black;
+    border-radius: 50%;
+    margin-left: 120px;
+    margin-top: -30px;
+}
+.iphone13 i{
+    font-size: 80px;
+    color: rgb(83, 79, 79);
+    margin-left: 110px;
+    margin-top: 110px;
+}
